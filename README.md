@@ -18,5 +18,4 @@ Django Rest api with base form functionality.
 
 5. Browse the api using the `http://ipaddr:port`
 
-![Screenshot from 2023-05-28 16-06-14.png](..%2F..%2F..%2FPictures%2FScreenshot%20from%202023-05-28%2016-06-14.png)
-
+![calculator_form.png](calculator_form.png)
