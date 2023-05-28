@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "calculator"
+version = "0.1.0"
+description = "Basic Calculator with strattegy pattern"
+authors = ["kmylk <khrystyna.mylkus@crunch.is>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+Django = "^4.2.1"
+djangorestframework = "^3.14.0"
+kink = "^0.6.6"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

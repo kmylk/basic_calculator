@@ -1,0 +1,8 @@
+<form action="/count" method="post">
+    {% csrf_token %}
+    {{ form }} {% if result %} Result: {{result}}  {% endif %}
+    <input type="submit" value="Count">
+</form>
+<form action="/count" method="get">
+    <input type="submit" value="Clear">
+</form>
